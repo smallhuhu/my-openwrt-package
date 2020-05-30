@@ -6,7 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=LuCI support for PPPoE Server BY TianKu
-LUCI_DEPENDS:=+rp-pppoe-common +rp-pppoe-server BY TianKu
+LUCI_DEPENDS:=+rp-pppoe-common +rp-pppoe-server
 LUCI_PKGARCH:=all
 PKG_VERSION:=1
 PKG_RELEASE:=8-20200326
