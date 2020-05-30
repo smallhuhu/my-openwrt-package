@@ -12,11 +12,11 @@
 1、 lede/package$下运行 或者openwrt/package$下运行
 
 ```bash
- git clone https://github.com/kenzok8/openwrt-packages.git
+ git clone https://github.com/tianku2020/my-openwrt-package.git
 ```
  2、 或者添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件
 ```bash
- src-git kenzo https://github.com/kenzok8/openwrt-packages
+ src-git tianku https://github.com/tianku2020/my-openwrt-package.git
 ```
  3、 passwall依赖
  ```bash
