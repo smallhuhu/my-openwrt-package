@@ -22,6 +22,11 @@
  ```bash
  src-git small https://github.com/kenzok8/small
  ```
+ 4.```bash
+ ./scripts/feeds clean
+./scripts/feeds update -a
+./scripts/feeds install -a
+```
  
 - openwrt 固件编译自定义主题与软件
 - luci-app-openclash       ------------------openclash图形         
