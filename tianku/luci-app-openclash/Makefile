@@ -4,7 +4,7 @@ PKG_NAME:=luci-app-openclash
 PKG_VERSION:=0.38.4
 PKG_RELEASE:=beta
 PKG_MAINTAINER:=vernesong <https://github.com/vernesong/OpenClash>
-
+LUCI_TITLE:=tianku
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 
 include $(INCLUDE_DIR)/package.mk

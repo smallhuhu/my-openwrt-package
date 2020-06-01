@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t2LuCI Support for aliddns
+LUCI_TITLE:=tiankuLuCI Support for aliddns
 LUCI_DESCRIPTION:=LuCI Support for ALiDDNS.
 LUCI_DEPENDS:=+openssl-util +curl
 LUCI_PKGARCH:=all

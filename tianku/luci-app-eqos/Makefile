@@ -7,7 +7,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=LuCI support for eqos.
+LUCI_TITLE:=tiankuLuCI support for eqos.
 LUCI_DESCRIPTION:=LuCI support for Easy QoS(Support speed limit based on IP address).
 LUCI_DEPENDS:=+tc +kmod-sched-core +kmod-ifb
 LUCI_PKGARCH:=all

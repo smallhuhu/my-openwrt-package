@@ -12,7 +12,7 @@ PKG_RELEASE:=1
 PKG_LICENSE:=Apache-2.0
 PKG_MAINTAINER:=Xingwang Liao <kuoruan@gmail.com>
 
-LUCI_TITLE:=t1LuCI support for Kcptun
+LUCI_TITLE:=lienolLuCI support for Kcptun
 LUCI_DEPENDS:=+jshn +wget +luci-lib-jsonc
 LUCI_PKGARCH:=all
 

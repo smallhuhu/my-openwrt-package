@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t1luci-app-guest-wifi
+LUCI_TITLE:=lienolluci-app-guest-wifi
 LUCI_DEPENDS:=
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.0

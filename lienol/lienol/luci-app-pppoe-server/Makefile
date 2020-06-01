@@ -5,7 +5,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t1LuCI support for PPPoE Server
+LUCI_TITLE:=lienolLuCI support for PPPoE Server
 LUCI_DEPENDS:=+rp-pppoe-common +rp-pppoe-server
 LUCI_PKGARCH:=all
 PKG_VERSION:=1

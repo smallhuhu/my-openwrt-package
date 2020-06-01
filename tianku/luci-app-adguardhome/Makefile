@@ -4,7 +4,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-adguardhome
-LUCI_TITLE:=t2
+LUCI_TITLE:=tianku
 PKG_VERSION:=1.8
 PKG_RELEASE:=12
 

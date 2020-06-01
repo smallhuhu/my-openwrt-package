@@ -5,7 +5,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t1LuCI support for Verysync
+LUCI_TITLE:=lienolLuCI support for Verysync
 LUCI_DEPENDS:=+verysync
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.0

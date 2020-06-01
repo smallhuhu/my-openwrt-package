@@ -6,7 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-brook-server
-LUCI_TITLE:=t1LuCI support for Brook Server 
+LUCI_TITLE:=lienolLuCI support for Brook Server 
 LUCI_DEPENDS:=+brook 
 LUCI_PKGARCH:=all
 PKG_VERSION:=1

@@ -5,7 +5,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t1LuCI support for Time Control
+LUCI_TITLE:=lienolLuCI support for Time Control
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.0
 PKG_RELEASE:=1-20200402

@@ -4,8 +4,7 @@
 #
 
 include $(TOPDIR)/rules.mk
-
-LUCI_TITLE:=t1LuCI support for IPSec VPN Server
+LUCI_TITLE:=lienolLuCI support for IPSec VPN Server
 LUCI_DEPENDS:=+strongswan +strongswan-minimal +strongswan-mod-xauth-generic
 LUCI_PKGARCH:=all
 PKG_VERSION:=1

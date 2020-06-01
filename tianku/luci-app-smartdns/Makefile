@@ -2,7 +2,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=Luci for smartdns server
+LUCI_TITLE:=tiankuLuci for smartdns server
 LUCI_DEPENDS:=+smartdns
 LUCI_PKGARCH:=all
 

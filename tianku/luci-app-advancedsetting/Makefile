@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t2LuCI Support for advancedsetting
+LUCI_TITLE:=tiankuLuCI Support for advancedsetting
 LUCI_DEPENDS:=
 PKG_VERSION:=1.1
 

@@ -5,7 +5,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=t1LuCI support for FileBrowser
+LUCI_TITLE:=lienolLuCI support for FileBrowser
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.1
 PKG_RELEASE:=1

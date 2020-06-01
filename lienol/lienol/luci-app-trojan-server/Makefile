@@ -6,7 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-trojan-server
-LUCI_TITLE:=t1LuCI support for Trojan Server
+LUCI_TITLE:=lienolLuCI support for Trojan Server
 LUCI_DEPENDS:=+luci-lib-jsonc +trojan 
 LUCI_PKGARCH:=all
 PKG_VERSION:=1
